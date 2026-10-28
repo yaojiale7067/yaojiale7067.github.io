@@ -7,4 +7,4 @@ Allow: /
 User-agent:*
 Disallow:
 
-Sitemap: https://blog.twis.uk/sitemap.xml
+Sitemap: https://blog.yaojiale7067.com/sitemap.xml
